@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Movix",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "movix-mauve-two.vercel.app",
+    "source": "https://github.com/akashyadav30045/MOVIX"
+  },
+  {
+    "title": "Whatsapp Clone",
+    "imageSrc": "projects/project.png",
+    "description": "This is a Real-Time Online Chatting,Video-Calling Application.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/akashyadav30045/Whatsapp-Clone"
+  },
+  
+  {
+    "title": "Youtube",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

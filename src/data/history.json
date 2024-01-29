@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Front-End Engineer",
+    "organisation": "CodeClause",
+    "startDate": "Sept, 2023",
+    "endDate": "Present",
+    "experiences": ["Worked on Task-Manager App"],
+    "imageSrc": "history/codeclause.jpeg"
+  },
+  {
+    "role": "Full-Stack Developer Intern",
+    "organisation": "AffWorld",
+    "startDate": "Jan, 2024",
+    "endDate": "Present",
+    "experiences": ["Worked on Company Projects"],
+    "imageSrc": "history/affworld.jpeg"
+  }
+]
